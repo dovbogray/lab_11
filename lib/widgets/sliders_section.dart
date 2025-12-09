@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import '../container_config_provider.dart'; // Імпорт нашого класу стану
+import '../container_config_provider.dart';
 
 class SlidersSection extends StatelessWidget {
   const SlidersSection({super.key});
